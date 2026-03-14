@@ -1,0 +1,1 @@
+"""AquaRural application package."""
